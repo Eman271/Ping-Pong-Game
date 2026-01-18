@@ -2,12 +2,13 @@
 
 <p>
 A simple two-player Pong game written entirely in 8086 Assembly.
-No libraries, no graphics engines — just interrupts, video memory, and raw keyboard input.
+No libraries, no graphics engines 
+just interrupts, video memory, and raw keyboard input.
 </p>
 
 <p>
 This project was created as a learning exercise to understand how games work at a very low level
-using real-mode DOS and text-mode graphics.
+using real mode DOS and text mode graphics.
 </p>
 
 <hr>
@@ -45,21 +46,21 @@ and input handling is controlled through hardware interrupts.
 
 <h3>Player 1 (Left Paddle)</h3>
 <ul>
-  <li><strong>W</strong> – Move up</li>
-  <li><strong>S</strong> – Move down</li>
+  <li><strong>W</strong> : Move up</li>
+  <li><strong>S</strong> : Move down</li>
 </ul>
 
 <h3>Player 2 (Right Paddle)</h3>
 <ul>
-  <li><strong>Up Arrow</strong> – Move up</li>
-  <li><strong>Down Arrow</strong> – Move down</li>
+  <li><strong>Up Arrow</strong> : Move up</li>
+  <li><strong>Down Arrow</strong> : Move down</li>
 </ul>
 
 <h3>General Controls</h3>
 <ul>
-  <li><strong>Space Bar</strong> – Start the game</li>
-  <li><strong>R</strong> – Restart after game over</li>
-  <li><strong>Esc</strong> – Exit the game</li>
+  <li><strong>Space Bar</strong> : Start the game</li>
+  <li><strong>R</strong> : Restart after game over</li>
+  <li><strong>Esc</strong> : Exit the game</li>
 </ul>
 
 <hr>
@@ -86,9 +87,9 @@ simple collision detection, and a basic game loop with controlled screen redraws
 
 <ul>
   <li>Understand keyboard and timer interrupts</li>
-  <li>Practice real-time input handling</li>
+  <li>Practice real time input handling</li>
   <li>Learn how rendering works without libraries</li>
-  <li>Apply low-level logic to build a complete game</li>
+  <li>Apply low level logic to build a complete game</li>
 </ul>
 
 <hr>
@@ -96,8 +97,8 @@ simple collision detection, and a basic game loop with controlled screen redraws
 <h2>Authors</h2>
 
 <ul>
-  <li><strong>Eman Fatima</strong> – 24L-3008</li>
-  <li><strong>Fatima Kamran</strong> – 24L-3027</li>
+  <li><strong>Eman Fatima</strong>   24L-3008</li>
+  <li><strong>Fatima Kamran</strong>   24L-3027</li>
 </ul>
 
 <hr>
